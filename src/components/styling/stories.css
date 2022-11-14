@@ -1,0 +1,8 @@
+#storytag {
+    color: blue;
+}
+
+.likescomments {
+    display: flex;
+    background-color: orange;
+}

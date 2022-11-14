@@ -1,0 +1,16 @@
+.Heading {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10px;
+    background-color: rgba(82,167,250,255);
+}
+
+#home {
+    margin-right: 50px;
+    margin-left: 500px;
+    font-weight: bold;
+}
+
+#categories {
+    font-weight: 400;
+}
