@@ -12,7 +12,7 @@ class StoryOne extends Component {
             framework enable the developers to create Apple Watch applications. In this article we are going to focus on the basics of getting
             started with the WatchKit framework and developing apps for the Apple Watch.</h4>
             <div class= "likescomments">
-            <h3>12 Comments</h3> 
+            <h3 id="comment">12 Comments</h3> 
             <h3>124 Likes</h3>
             </div>
             </div>

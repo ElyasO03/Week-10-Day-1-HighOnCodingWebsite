@@ -6,3 +6,16 @@
     display: flex;
     background-color: orange;
 }
+
+.stories {
+    display: flow-root;
+    margin-left: 30px;
+}
+
+#comment {
+    margin-right: 30px;
+}
+
+#likes {
+    margin-right: 30px;
+}
